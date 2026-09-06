@@ -4,7 +4,7 @@
 
 `v1.3` · License: MIT · Vibe by **TwentySeV**
 
-![Demo OCR2Txt](image.png)
+<img width="1492" height="977" alt="image" src="https://github.com/user-attachments/assets/a139820d-f090-49db-b058-3e0b29859801" />
 
 ---
 
